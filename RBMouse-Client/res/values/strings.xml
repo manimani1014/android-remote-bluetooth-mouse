@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RBMouse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="title_activity_scan_for_bluetooth_devices">ScanForBluetoothDevices</string>
+    <string name="button_cancal">Cancal</string>
+    <string name="button_scann">Scann</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="title_activity_mouse_touch_panel">MouseTouchPanel</string>
+
+</resources>
